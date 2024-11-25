@@ -1,3 +1,4 @@
+// TO REVIEW
 // JS Example for subscribing to a channel
 /* eslint-disable */
 const WebSocket = require("ws");
